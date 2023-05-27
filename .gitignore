@@ -1,6 +1,7 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
-*.py[cod]
+*.py[pkg update
+pkg install python3 python3-pip git -y
 *$py.class
 
 # C extensions
